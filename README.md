@@ -1,6 +1,6 @@
 
 
-![mountain](mountain.png)
+![mountain](smallermountain.png)
 
 Hello all, and welcome to my Github
 <!--
