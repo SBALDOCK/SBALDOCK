@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="918" height="600" src="me.png">
+  <img width="798" height="600" src="me.png">
 </p>
 
 Hello all, and welcome to my Github page.
