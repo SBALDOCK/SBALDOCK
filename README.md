@@ -10,3 +10,5 @@ development because I love to solve problems and I love to collaborate. This ind
 I'm currently wrapping my head around React. 
 
 [![Steve's stats](https://github-readme-stats.vercel.app/api?username=SBALDOCK&count_private=true&show_icons=true&theme=dark)](https://github.com/SBALDOCK/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SBALDOCK)](https://github.com/SBALDOCK/github-readme-stats)
