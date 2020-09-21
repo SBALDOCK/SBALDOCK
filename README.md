@@ -1,4 +1,6 @@
-![me](me.png)
+<p align="center">
+  <img src="me.png">
+</p>
 
 Hello all, and welcome to my Github page.
 
