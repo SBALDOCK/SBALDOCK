@@ -9,4 +9,4 @@ development because I love to solve problems and I love to collaborate. This ind
 
 I'm currently wrapping my head around React. 
 
-[![Steve's stats](https://github-readme-stats.vercel.app/api?username=SBALDOCK)](https://github.com/SBALDOCK/github-readme-stats)
+[![Steve's stats](https://github-readme-stats.vercel.app/api?username=SBALDOCK&count_private=true)](https://github.com/SBALDOCK/github-readme-stats)
