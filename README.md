@@ -1,6 +1,6 @@
 
 
-![me](me.png)
+<div align=”center”>![me](me.png)</div> 
 
 Hello all, and welcome to my Github page.
 
